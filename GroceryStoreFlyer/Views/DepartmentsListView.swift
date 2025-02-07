@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  DepartmentsListView.swift
 //  GroceryStoreFlyer
 //
 //  Created by Sebastian on 2025-02-05.
